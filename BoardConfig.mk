@@ -25,7 +25,7 @@ BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := daisy_defconfig
+TARGET_KERNEL_CONFIG := sakura_defconfig
 TARGET_KERNEL_VERSION := 4.9
 
 # Partitions
